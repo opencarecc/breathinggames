@@ -1,6 +1,6 @@
-name: Prototype01 of the opencare project
+name: Breathing Games by opencarecc
 markdown: kramdown
-baseurl: 
+baseurl:
 permalink: /blog/:year/:month/:day/:title/
 gems:
   - jekyll-sitemap
