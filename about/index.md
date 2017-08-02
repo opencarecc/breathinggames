@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Prototype01 by opencare.cc
+title: About Breathing Games by opencare.cc
 ---
 
 # About page
