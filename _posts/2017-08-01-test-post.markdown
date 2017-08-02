@@ -2,7 +2,7 @@
 layout: post
 title: "Test post"
 subtitle: "aiutaci a scegliere lo sticker che caratterizzerà il progetto"
-date: 2017-08-01
+date: 2017-08-01 10:13:04 +0200
 image: false
 categories: false
 by: "Chiara"
