@@ -7,7 +7,7 @@ image: false
 categories: false
 by: "Chiara"
 ---
-Hello, this is a test post.
+Hello, this is a test post that is not displaying the title.
 
 # test h1
 
