@@ -3,14 +3,14 @@ layout: post
 title: "opencare MIR application - Breathing Games"
 subtitle: "prova prova prova"
 date: 2017-05-11 10:13:04 +0200
-image: /Breathinggames/assets/BG-post-img-01.jpg
+image: /breathinggames/assets/BG-post-img-01.jpg
 categories: news
 by: "Silvia"
 published: true
 excerpt: On 11th of May 2017 we submitted our application to the <b>CALL FOR MAKERS - opencare Maker In Residence.</b>
 ---
 
-<img src="https://opencarecc.github.io/Breathinggames/assets/BG-post-img-01.jpg" alt="Breathing Games-01">
+<img src="https://opencarecc.github.io/breathinggames/assets/BG-post-img-01.jpg" alt="Breathing Games-01">
 
 <blockquote><i>A planet where everyone breathes freely.</i></blockquote>
 
@@ -18,7 +18,7 @@ On August 2016, Breathing Games took part to the <b>Open & Change Care</b> appli
 
 The <b>opencare Maker in Residence</b> is the first edition of a special residency program organized by [WeMake](wemake.cc), as part of the <b>opencare</b> European project. It provides support, assistance, funding and acceleration to Makers – from all over the world – who are interested in developing / validating / iterating an open source project in the health and care field.
 
-<img src="https://opencarecc.github.io/Breathinggames/assets/BG-post-img-02.jpg" alt="Breathing Games-02">
+<img src="https://opencarecc.github.io/breathinggames/assets/BG-post-img-02.jpg" alt="Breathing Games-02">
 
 We applied as [Breathing Games](www.breathinggames.net) which promotes respiratory health by encouraging each citizen to take care of their health. We create <b>educational and therapeutic games</b>, devices to measure the breathe and distributed data systems to inform public health practices and policies.
 
