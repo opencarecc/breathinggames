@@ -651,3 +651,8 @@ ul.slick-dots li.slick-active button:before {
 .no-border{
 	border: none;
 }
+
+iframe.presentation{
+	width:100%;
+	height: 495px;
+}

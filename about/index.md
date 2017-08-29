@@ -15,7 +15,7 @@ During the two-weeks <b>opencare Maker in Residence</b> experience we were very 
 
 Watch the BG MIR Presentation to get all details!
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTTtnTWjSvHVg0bD4mz5sXdNH7VH6U3MsPW25n1zGWwb4qCPcDAGt4hVUOyB_b9eeGaj3FxBlP2yYEV/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe class="presentation" src="https://docs.google.com/presentation/d/e/2PACX-1vTTtnTWjSvHVg0bD4mz5sXdNH7VH6U3MsPW25n1zGWwb4qCPcDAGt4hVUOyB_b9eeGaj3FxBlP2yYEV/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <b>Breathing Games</b> is a signatory of the [United Nations Global Compact](https://www.unglobalcompact.org/what-is-gc/participants/84281) and of the [Open Source Initiative](https://opensource.org/node/829).
 
