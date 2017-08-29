@@ -23,7 +23,9 @@ Watch the BG MIR Presentation to get all details!
 
 <img src="https://opencarecc.github.io/breathinggames/assets/BG-about-img-team.jpg" alt="Breathing-Games-Team">
 
-Since 2014, Breathing Games has mobilized <b>over 200 people</b> from all walks to co-create games, hardware and distributed databases to educate on respiratory health. The participants of the <b>opencare Maker in Residence</b> were:
+Since 2014, Breathing Games has mobilized <b>over 200 people</b> from all walks to co-create games, hardware and distributed databases to educate on respiratory health.
+
+## The participants of the <b>opencare Maker in Residence</b>
 
 * <b>Bernard Dugas</b> - IT systems architect, 25 years in aeronautic and telecom networks
 * <b>Povilas Jurgaitis</b> - Electronics engineer, 4 years in electronics and embedded systems design
