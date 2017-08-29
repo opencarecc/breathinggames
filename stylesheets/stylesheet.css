@@ -60,18 +60,6 @@ nav img {
   float: left;
 }
 
-.pull-left {
-	float: left;
-}
-
-.margin-right-35 {
-	margin-right: 35px;
-}
-
-.no-border{
-	border: none;
-}
-
 /* NAVIGATION BAR media queries */
 @media screen and (min-width: 64em) {
   nav {
@@ -648,4 +636,18 @@ ul.posts li:last-of-type {
 }
 ul.slick-dots li.slick-active button:before {
   color: #159957;
+}
+
+/* === HELPERS === */
+
+.pull-left {
+	float: left;
+}
+
+.margin-right-35 {
+	margin-right: 35px;
+}
+
+.no-border{
+	border: none;
 }
