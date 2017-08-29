@@ -30,19 +30,6 @@ Continue to read our story on <b>EdgeRyders</b> by clicking on this [link](https
 
 ### Release 0.1 - 2017/05/11
 
-Project Name:
-Users:
-
-The problem:
-Lack of information, education and healthy habits.
-The solution:
-Educational and therapeutic games
-Game Jams
-Hardwares
-Distributed databases
-Link:
-MIR application 11/05/2017
-
 * <b>Project Name:</b>
 	* Breathing Games
 * <b>Users:</b>
