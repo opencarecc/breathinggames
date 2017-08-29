@@ -68,6 +68,10 @@ nav img {
 	margin-right: 35px;
 }
 
+.no-border{
+	border: none;
+}
+
 /* NAVIGATION BAR media queries */
 @media screen and (min-width: 64em) {
   nav {

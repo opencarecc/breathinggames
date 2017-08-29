@@ -3,7 +3,7 @@
 
     <!-- {{ include.category }} -->
 
-    <div class="row">
+    <div class="row no-border">
       <!--if a category is specified print just the news reguarding that-->
       {% if include.category %}
         {% for post in site.categories[include.category] offset: 0 limit: 3 %}
