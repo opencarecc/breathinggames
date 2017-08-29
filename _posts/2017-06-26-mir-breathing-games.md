@@ -2,7 +2,7 @@
 layout: post
 title: "MIR - Breathing Games"
 subtitle: "prova prova prova"
-date: 2017-006-26 10:13:04 +0200
+date: 2017-06-26 10:13:04 +0200
 image: /breathinggames/assets/BG-post-img-residency.jpg
 categories: news
 by: "Silvia"
