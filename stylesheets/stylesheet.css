@@ -60,6 +60,14 @@ nav img {
   float: left;
 }
 
+.pull-left {
+	float: left;
+}
+
+.margin-right-35 {
+	margin-right: 35px;
+}
+
 /* NAVIGATION BAR media queries */
 @media screen and (min-width: 64em) {
   nav {
