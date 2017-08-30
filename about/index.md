@@ -35,7 +35,7 @@ Since 2014, Breathing Games has mobilized <b>over 200 people</b> from all walks 
 
 Discover more about us:
 
-* [Website](www.breathinggames.net)
+* [Website](https://www.breathinggames.net)
 * [Facebook](https://www.facebook.com/breathinggames/)
 * [Twitter](https://twitter.com/breathinggames?ref_src=twsrc%5Etfw&ref_url=http%3A%2F%2Fbreathinggames.net%2F%3Fq%3Den)
 * [YouTube Channel](https://www.youtube.com/channel/UC2bK-LCBKF3SeFATwgg3U6g)
