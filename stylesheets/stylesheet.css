@@ -665,3 +665,8 @@ iframe.presentation{
 .font_size_12{
 	font-size: 12px;
 }
+
+@media screen and (min-width: 42em) {
+	.title_news{
+		height: 3em;
+	}
