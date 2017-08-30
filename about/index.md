@@ -5,6 +5,8 @@ title: About Breathing Games by opencare.cc
 
 # About
 
+<img src="https://opencarecc.github.io/breathinggames/assets/BG-about-img.jpg" alt="Breathing Games-Games">
+
 <blockquote><i>Breathing Games promotes respiratory health by encouraging each citizen to take care of their health. We create educational and therapeutic games, devices to measure the breathe, and distributed data systems to inform public health practices, and policies.</i></blockquote>
 
 We create a commons – <b>collectively managed resources</b> that are freely accessible and can be used and enriched by everyone – by spurring collaboration between people affected, caregivers, and passionate professionals to build on the collective intelligence.
@@ -25,7 +27,7 @@ Watch the BG MIR Presentation to get all details!
 
 Since 2014, Breathing Games has mobilized <b>over 200 people</b> from all walks to co-create games, hardware and distributed databases to educate on respiratory health.
 
-## The participants of the <b>opencare Maker in Residence</b>
+### The participants of the <b>opencare Maker in Residence</b>
 
 * <b>Bernard Dugas</b> - IT systems architect, 25 years in aeronautic and telecom networks
 * <b>Povilas Jurgaitis</b> - Electronics engineer, 4 years in electronics and embedded systems design
