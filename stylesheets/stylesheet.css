@@ -258,12 +258,12 @@ nav img {
 a:last-of-type.btn {
   color: rgba(255,255,255,1);
   text-decoration: none;
-  background-color: #3ab5f9;
-  border: 1px solid #3ab5f9;
+  background-color: #5dddc6;
+  border: 1px solid #5dddc6;
 }
 a:last-of-type.btn:hover {
-  background-color: #057df7;
-  border: 1px solid #057df7;
+  background-color: #04c49b;
+  border: 1px solid #04c49b;
 }
 
 /* BUTTONS media queries */
