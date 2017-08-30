@@ -36,6 +36,7 @@ Continue to read our story on <b>EdgeRyders</b> by clicking on this [link](https
 	* Individuals with chronic respiratory diseases
 	* Caregivers
 	* Passionate professionals
+	* Doctors (MD, physicians, specialists)
 * <b>The problem:</b>
 	* Lack of information
 	* Lack of education and healthy habits.

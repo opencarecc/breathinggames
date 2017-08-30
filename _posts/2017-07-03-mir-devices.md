@@ -28,6 +28,7 @@ More details on [EdgeRyders](https://edgeryders.eu/t/copyfair-devices-to-measure
 	* Individuals with chronic respiratory diseases
 	* Caregivers
 	* Passionate professionals
+	* Doctors (MD, physicians, specialists)
 * <b>The problem:</b>
 	* Lack of information
 	* Lack of education and healthy habits.
