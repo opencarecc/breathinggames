@@ -208,7 +208,7 @@ nav img {
   font-size: 20px;
   font-weight: 300;
   line-height: 1.2em;
-  color: rgb(41,160,209);
+  color: #99e7da;
 }
 
 @media screen and (min-width: 64em) {
@@ -308,7 +308,7 @@ a:last-of-type.btn:hover {
   /*margin-top: 2rem;*/
   margin-bottom: 1rem;
   font-weight: 300;
-  color: #159957; }
+  color: #04c49b; }
 .main-content p {
   margin-bottom: 1em; }
 .main-content code {
