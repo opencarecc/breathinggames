@@ -31,7 +31,7 @@ More details on [EdgeRyders](https://edgeryders.eu/t/copyfair-devices-to-measure
 * <b>The problem:</b>
 	* Lack of information
 	* Lack of education and healthy habits.
-* <b>The solution:</b>
+* <b>The outcomes:</b>
 	* Sensors to measure the pressure and flow, using 3d printing
 	* Adafruit electronics
 * <b>Link:</b>
