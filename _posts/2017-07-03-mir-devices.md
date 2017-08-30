@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "opencare MIR - Interview"
+title: "opencare MIR - Sensors and 3D printing"
 subtitle: "prova prova prova"
 date: 2017-07-03 10:13:04 +0200
 image: /breathinggames/assets/BG-post-img-devices.jpg
