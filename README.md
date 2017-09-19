@@ -8,7 +8,7 @@ This <b>Breathing Games mini-website</b> is maintained by [WeMake](http://wemake
 ## References
 * More info about the <b>opencare.cc</b> project can be found here <http://opencare.cc>
 * More info about the <b>Breathing Games project</b> can be found here <https://opencarecc.github.io/breathinggames/>
-* <b>Releases and repository of ReHub</b> can be found here <https://github.com/opencarecc/breathinggames/>
+* <b>Releases and repository of ReHub</b> can be found here <https://github.com/opencarecc/breathinggames>
 
 ## Licence
 Breathing Games is a member of the <b>Open Source Initiative</b> and a signatory of the <b>United Nations Global Compact</b> – a call to align organizations with universal principles on human rights, labour, environment and anti-corruption.
