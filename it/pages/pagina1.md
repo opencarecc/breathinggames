@@ -23,20 +23,4 @@ permalink: it/pagina1/
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce faucibus lectus libero, vitae convallis tellus porttitor a. Aenean pretium leo vel sagittis finibus. Fusce dapibus blandit interdum.
 
-Si possono anche aggiungere link ai blog post:
-- [Primo post]({% post_url 2017-09-19-primo-post %})
-
-- [Secondo post]({% post_url 2017-09-20-secondo-post %})
-
-
-### iframe embed
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce faucibus lectus libero, vitae convallis tellus porttitor a. Aenean pretium leo vel sagittis finibus. Fusce dapibus blandit interdum.
-
-<iframe src="https://drive.google.com/file/d/0B2SJ8fygbNJmV09qcUJYNEFsS28/preview" width="800px" height="600px"></iframe>
-
-### Pic
-
-Si possono anche aggiungere foto
-![storyboard utilizzo campanello]({{ site.baseurl }}/assets/flyer.jpg)
 
