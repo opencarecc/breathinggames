@@ -8,6 +8,10 @@ global:
   read_more: "Read more"
   read_more_post: "Read more"
 
+# ----------------------------------
+# --- NAVIGATION dictionary keys --- 
+# ----------------------------------
+project_logo: "<img src='../assets/OC-logo-breathinggames.svg'>"
 
 # ---------------------------------
 # --- HOME page dictionary keys --- 
