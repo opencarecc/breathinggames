@@ -1,9 +1,23 @@
-name: Breathing Games by opencarecc
+name: Breathing Games
+author: WeMake
 markdown: kramdown
-baseurl:
-permalink: /blog/:year/:month/:day/:title/
-gems:
+baseurl: 
+permalink: blog/:year/:month/:day/:title/
+plugins:
   - jekyll-sitemap
-  - jekyll-paginate
-paginate: 10
-paginate_path: /blog/page:num/
+  # - jekyll-paginate
+# paginate: 10
+# paginate_path: /blog/page:num/
+exclude: [README.md]
+github: [metadata]
+
+title: "Breathing Games by opencarecc"
+tagline: "Breathing Games promotes respiratory health by encouraging each citizen to take care of their health."
+
+# multilingual stuff
+index:
+  en:
+  it: it/index.html
+
+default_lang: "en"
+
