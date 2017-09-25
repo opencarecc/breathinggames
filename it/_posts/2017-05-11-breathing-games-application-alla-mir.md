@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "opencare MIR application - Breathing Games"
+title: "opencare MIR application - Breathing Games IT"
 subtitle: "prova prova prova"
 date: 2017-05-11 10:13:04 +0200
 image: /breathinggames/assets/BG-post-img-01.jpg
@@ -8,7 +8,7 @@ categories: news
 by: "Silvia"
 published: true
 excerpt: On 11th of May 2017 we submitted our application to the <b>CALL FOR MAKERS - opencare Maker In Residence.</b>
-lang: en
+lang: it
 ref: mir-application-breathing-games
 ---
 
@@ -33,19 +33,19 @@ Continue to read our story on <b>EdgeRyders</b> by clicking on this [link](https
 ### Release 0.1 - 2017/05/11
 
 * <b>Project Name:</b>
-	* Breathing Games
+  * Breathing Games
 * <b>Users:</b>
-	* Individuals with chronic respiratory diseases
-	* Caregivers
-	* Passionate professionals
-	* Doctors (MD, physicians, specialists)
+  * Individuals with chronic respiratory diseases
+  * Caregivers
+  * Passionate professionals
+  * Doctors (MD, physicians, specialists)
 * <b>The problem:</b>
-	* Lack of information
-	* Lack of education and healthy habits.
+  * Lack of information
+  * Lack of education and healthy habits.
 * <b>The solution:</b>
-	* Educational and therapeutic games
-	* Game Jams
-	* Hardwares
-	* Distributed databases
+  * Educational and therapeutic games
+  * Game Jams
+  * Hardwares
+  * Distributed databases
 * <b>Link:</b>
   * [MIR Application 11/05/2017](https://edgeryders.eu/t/worldwide-1-in-5-people-has-a-respiratory-disease-we-co-create-freely-available-respiratory-health-games-and-devices/702)
