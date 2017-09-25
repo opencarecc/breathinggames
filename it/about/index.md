@@ -3,10 +3,12 @@ layout: default
 title: About
 published: true
 ref: about
-lang: en
+lang: it
 ---
 
 # About
+
+AGGIUNGERE TRADUZIONE
 
 <img src="https://opencarecc.github.io/breathinggames/assets/BG-about-img.jpg" alt="Breathing Games-Games">
 
