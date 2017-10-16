@@ -1,7 +1,7 @@
 name: Breathing Games
 author: WeMake
 markdown: kramdown
-baseurl: 
+baseurl:
 permalink: blog/:year/:month/:day/:title/
 plugins:
   - jekyll-sitemap
@@ -21,3 +21,18 @@ index:
 
 default_lang: "en"
 
+# Facebook OpenGraph stuff
+opengraph:
+  title: "Breathing Games by opencarecc"
+  url: "https://opencarecc.github.io/breathinggames/"
+  description: "Breathing Games promotes respiratory health by encouraging each citizen to take care of their health."
+  image_url: "http://opencarecc.github.io/breathinggames/assets/OC-Logo-socials.png"
+
+# Twitter Card stuff
+twitter:
+  site: "Breathing Games by opencarecc"
+  title: "Breathing Games by opencarecc"
+  description: "Breathing Games promotes respiratory health by encouraging each citizen to take care of their health."
+  creator: "opencarecc"
+  domain: "http://opencarecc.github.io/breathinggames/"
+  image_url: "http://opencarecc.github.io/breathinggames/assets/OC-Logo-socials.png"
