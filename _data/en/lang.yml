@@ -125,7 +125,7 @@ contribute:
     # - guideline: "Contribute 1"
     # - guideline: "Contribute 2"
     - guideline: "Do you want to contribute to the <b>Breathing Games</b> project?
-  	Write us at <a href="mailto:breathinggamestaff@wemake.cc"><b>breathinggamestaff@wemake.cc</b></a>
+  	Write us at <a href='mailto:breathinggamestaff@wemake.cc'><b>breathinggamestaff@wemake.cc</b></a>
     or leave a comment below!"
   more_link:
     - text: "Read more"
