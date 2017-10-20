@@ -19,14 +19,14 @@ project_logo: "<img src='../assets/OC-logo-breathinggames.svg'>"
 # dictionary keys for homeheader.html include file
 header:
   title: "Breathing games"
-  tagline: "This is the template for Breathing games' website"
+  tagline: "promotes respiratory health by encouraging each citizen to take care of it"
   buttons:
     - text: "View on GitHub"
-      link: "https://github.com/opencarecc/voiceinstruments"
+      link: "https://github.com/opencarecc/breathinggames"
     - text: "Download .zip"
-      link: "https://github.com/opencarecc/voiceinstruments/zipball/master"
+      link: "https://github.com/opencarecc/breathinggames/zipball/master"
     - text: "Build your own!"
-      link: "https://github.com/opencarecc/voiceinstruments/wiki"
+      link: "https://github.com/opencarecc/breathinggames/wiki"
 
 # dictionary keys for description.html include file
 description: "<h3>Acknowledgements</h3>
@@ -44,8 +44,8 @@ description: "<h3>Acknowledgements</h3>
 # dictionary keys for video.html include file
 video:
   title: "video english title"
-  url: "https://www.youtube.com/embed/z6lobpiFeiU"
-  description: "english description"
+  url: "https://www.youtube.com/embed/jmV-Dwhqfd0"
+  description: "Watch the report of our residence at <b>opencare</b> – WeMake Milan"
   link: "about"
 
 # dictionary keys for topics.html include file
