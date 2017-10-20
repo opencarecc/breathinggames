@@ -14,7 +14,11 @@ lang: en
 
 We create a commons – <b>collectively managed resources</b> that are freely accessible and can be used and enriched by everyone – by spurring collaboration between people affected, caregivers, and passionate professionals to build on the collective intelligence.
 
+### SCENARIO
+
 The <b>games</b> produced participatorily are meant to improve the quality and life expectancy of people with respiratory problems – by educating, transforming therapy into games, and promoting healthy habits. They can be reused and adapted by everyone to address local problems and needs, as long as the free/libre and <b>open-source licences</b> are maintained. We also develop <b>open-source hardware</b> such as flowmeter for domesic use. This material shall enable everyone, in all countries, to get indicators about his health (lung capacity tests), and shall also provide decentralized, anonimyzed data to advance public health research (blockchain/IPFS).
+
+### JOURNEY
 
 During the two-weeks <b>opencare Maker in Residence</b> experience we were very busy building and testing different sensors to measure the pressure and flow, using 3d printing, Adafruit electronics, and other elements.
 
@@ -24,13 +28,13 @@ Watch the BG MIR Presentation to get all details!
 
 <b>Breathing Games</b> is a signatory of the [United Nations Global Compact](https://www.unglobalcompact.org/what-is-gc/participants/84281) and of the [Open Source Initiative](https://opensource.org/node/829).
 
-## Our team
+### TEAM
 
 <img src="https://opencarecc.github.io/breathinggames/assets/BG-about-img-team.jpg" alt="Breathing-Games-Team">
 
 Since 2014, Breathing Games has mobilized <b>over 200 people</b> from all walks to co-create games, hardware and distributed databases to educate on respiratory health.
 
-### The participants of the <b>opencare Maker in Residence</b>
+#### The participants of the <b>opencare Maker in Residence</b>
 
 * <b>Bernard Dugas</b> - IT systems architect, 25 years in aeronautic and telecom networks
 * <b>Povilas Jurgaitis</b> - Electronics engineer, 4 years in electronics and embedded systems design
