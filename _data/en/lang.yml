@@ -18,7 +18,7 @@ project_logo: "<img src='../assets/OC-logo-breathinggames.svg'>"
 # ---------------------------------
 # dictionary keys for homeheader.html include file
 header:
-  title: "Breathing games"
+  title: "Breathing Games"
   tagline: "promotes respiratory health by encouraging each citizen to take care of it"
   buttons:
     - text: "View on GitHub"
@@ -63,7 +63,7 @@ topics:
 
 # dictionary keys for slick_slider.html include file
 slick:
-  description: ""
+  description: "Some moments from Breathing Games' <b>opencare Maker in Residence</b>"
 
 # dictionary keys for image_index.html include file
 image_index: "<img src='https://opencarecc.github.io/breathinggames/assets/BG-home-image.jpg'>"
@@ -106,14 +106,13 @@ tutorials:
 # dictionary keys for license.html include file
 license:
   title: "Open Source"
-  license_content_html: "Software - <a href='https://www.gnu.org/licenses/gpl-3.0.en.html' target='_blank'>GNU General Public License</a>
-                        <br>
-                        Hardware - <a href='http://ohwr.org/cernohl' target='_blank'>CERN OHL v.1.2</a>"
+  license_content_html: "<img src="https://opencarecc.github.io/breathinggames/assets/Open-Source-Initiative-logo.png" class="pull-left margin-right-35">
+  <p>Breathing Games is a member of the <a href="https://opensource.org/node/829">Open Source Initiative</a> and a signatory of the <a href="https://www.unglobalcompact.org/what-is-gc/participants/84281">United Nations Global Compact</a> – a call to align organizations with universal principles on human rights, labour, environment and anti-corruption.</p>"
 
 # dictionary keys for credits.html include file
 credits:
   title: "Credits"
-  credits_content_html: "This website is maintained by <a href='http://wemake.cc' target='_blank'>WeMake</a> as part of the <a href='http://opencare.cc/' target='_blank'>opencare.cc</a> project.
+  credits_content_html: "This website is maintained by <a href='http://wemake.cc' target='_blank'>WeMake</a> and Breathing Games as part of the <a href='http://opencare.cc/' target='_blank'>opencare.cc</a> project and as a result of the <a href='http://wemake.cc/opencare/maker-in-residence/' target='_blank'>opencare Maker in Residence</a>.
                         <br><br>
                         This project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 688670.
                         <br><br>
@@ -123,9 +122,11 @@ credits:
 contribute:
   title: "How to contribute"
   contribution_guidelines:
-    - guideline: "Contribute 1"
-    - guideline: "Contribute 2"
-    - guideline: "Contribute 3"
+    # - guideline: "Contribute 1"
+    # - guideline: "Contribute 2"
+    - guideline: "Do you want to contribute to the <b>Breathing Games</b> project?
+  	Write us at <a href="mailto:breathinggamestaff@wemake.cc"><b>breathinggamestaff@wemake.cc</b></a>
+    or leave a comment below!"
   more_link:
     - text: "Read more"
       link: "about"
@@ -136,7 +137,7 @@ contribute:
 # ------------------------------
 # dictionary keys for footer.html include file
 footer:
-  credits_line_html: "is maintained by <a href='https://opencare.cc'>opencarecc</a>"
+  credits_line_html: "is maintained by <a href='http://wemake.cc' target='_blank'>WeMake</a> and Breathing Games as part of the <a href='http://opencare.cc/' target='_blank'>opencare.cc</a> project and as a result of the <a href='http://wemake.cc/opencare/maker-in-residence/' target='_blank'>opencare Maker in Residence</a>."
   eu_agreement_line: "This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 688670"
 
 
