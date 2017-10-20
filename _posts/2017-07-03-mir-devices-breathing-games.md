@@ -1,13 +1,15 @@
 ---
 layout: post
 title: "opencare MIR - Sensors and 3D printing"
-subtitle: "prova prova prova"
+subtitle: "Our <b>opencare</b> residence at WeMake Milan is moving forward!"
 date: 2017-07-03 10:13:04 +0200
-image: /breathinggames/assets/BG-post-img-devices.jpg
+image: "/breathinggames/assets/BG-post-img-devices.jpg"
 categories: news
 by: "Silvia"
 published: true
-excerpt: Our <b>opencare</b> residence at WeMake Milan is moving forward!
+excerpt: "Our <b>opencare</b> residence at WeMake Milan is moving forward!"
+lang: en
+ref: mir-devices-breathing-games
 ---
 
 <img src="https://opencarecc.github.io/breathinggames/assets/BG-post-img-devices.jpg" alt="Breathing Games-Devices">
