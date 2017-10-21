@@ -1,13 +1,15 @@
 ---
 layout: post
 title: "opencare MIR - Report of the residency"
-subtitle: "prova prova prova"
+subtitle: "Our two-week <b>opencare</b> residence at <b>WeMake</b> Milano was a success!"
 date: 2017-07-12 12:13:04 +0200
-image: /breathinggames/assets/BG-post-img-report.jpg
+image: "/breathinggames/assets/BG-post-img-report.jpg"
 categories: news
 by: "Silvia"
 published: true
-excerpt: Our two-week <b>opencare</b> residence at <b>WeMake</b> Milano was a success!
+excerpt: "Our two-week <b>opencare</b> residence at <b>WeMake</b> Milano was a success!"
+lang: en
+ref: mir-report-breathing-games
 ---
 
 <img src="https://opencarecc.github.io/breathinggames/assets/BG-post-img-report.jpg" alt="Breathing Games-Devices">
