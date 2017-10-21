@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "opencare MIR - Meeting new people!"
-subtitle: "We get in touch with Oliver from the echOpen project."
+subtitle: "We get in touch with Olivier from the echOpen project."
 date: 2017-07-06 10:13:04 +0200
 image: "/breathinggames/assets/BG-post-img-hubotics.jpg"
 categories: news
 by: ["update","news"]
 published: true
-excerpt: "We get in touch with Oliver from the echOpen project."
+excerpt: "We get in touch with Olivier from the echOpen project."
 lang: en
 ref: mir-meeting-new-people-breathing-games
 ---

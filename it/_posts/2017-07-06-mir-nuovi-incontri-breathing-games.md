@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "opencare MIR application - Breathing Games"
-subtitle: "L'11 maggio 2017 abbiamo presentato la nostra candidatura alla <b>CALL FOR MAKERS - opencare Maker In Residence.</b>"
-date: 2017-05-11 10:13:04 +0200
-image: "/breathinggames/assets/BG-post-img-01.jpg"
-categories: ["news"]
+title: "opencare MIR - Incontrando nuove persone!"
+subtitle: "Ci siamo messi in contatto con Olivier del progetto echOpen."
+date: 2017-07-06 10:13:04 +0200
+image: "/breathinggames/assets/BG-post-img-hubotics.jpg"
+categories: ["aggiornamenti","news"]
 by: "Silvia"
 published: true
-excerpt: "L'11 maggio 2017 abbiamo presentato la nostra candidatura alla <b>CALL FOR MAKERS - opencare Maker In Residence.</b>"
+excerpt: "Ci siamo messi in contatto con Olivier del progetto echOpen."
 lang: it
-ref: mir-application-breathing-games
+ref: mir-meeting-new-people-breathing-games
 ---
 
 <img src="https://opencarecc.github.io/breathinggames/assets/BG-post-img-01.jpg" alt="Breathing Games-01">

@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "opencare MIR application - Breathing Games"
-subtitle: "L'11 maggio 2017 abbiamo presentato la nostra candidatura alla <b>CALL FOR MAKERS - opencare Maker In Residence.</b>"
-date: 2017-05-11 10:13:04 +0200
-image: "/breathinggames/assets/BG-post-img-01.jpg"
-categories: ["news"]
+title: "opencare MIR - Resoconto della residenza"
+subtitle: "Le due settimane di residenza presso <b>WeMake</b> Milano sono state un successo!"
+date: 2017-07-12 12:13:04 +0200
+image: "/breathinggames/assets/BG-post-img-report.jpg"
+categories: ["aggiornamenti"]
 by: "Silvia"
 published: true
-excerpt: "L'11 maggio 2017 abbiamo presentato la nostra candidatura alla <b>CALL FOR MAKERS - opencare Maker In Residence.</b>"
+excerpt: "Le due settimane di residenza presso <b>WeMake</b> Milano sono state un successo!"
 lang: it
-ref: mir-application-breathing-games
+ref:  mir-report-breathing-games
 ---
 
 <img src="https://opencarecc.github.io/breathinggames/assets/BG-post-img-01.jpg" alt="Breathing Games-01">
