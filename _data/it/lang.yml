@@ -14,15 +14,15 @@ global:
 # ---------------------------------
 # dictionary keys for homeheader.html include file
 header:
-  title: "Breathing games"
-  tagline: "Questo è il template per il sito di Breathing games"
+  title: "Breathing Games"
+  tagline: "promuove la salute respiratoria incoraggiando ciascun cittadino a prendersene cura"
   buttons:
     - text: "Vedi su GitHub"
-      link: "https://github.com/opencarecc/voiceinstruments"
+      link: "https://github.com/opencarecc/breathinggames"
     - text: "Scarica .zip"
-      link: "https://github.com/opencarecc/voiceinstruments/zipball/master"
+      link: "https://github.com/opencarecc/breathinggames/zipball/master"
     - text: "Costruisci!"
-      link: "https://github.com/opencarecc/voiceinstruments/wiki"
+      link: "https://github.com/opencarecc/breathinggames/wiki"
 
 # dictionary keys for description.html include file
 description: "Questa è la descrizione del progetto Voice instruments"
