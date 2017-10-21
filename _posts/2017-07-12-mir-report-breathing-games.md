@@ -4,7 +4,7 @@ title: "opencare MIR - Report of the residency"
 subtitle: "Our two-week <b>opencare</b> residence at <b>WeMake</b> Milano was a success!"
 date: 2017-07-12 12:13:04 +0200
 image: "/breathinggames/assets/BG-post-img-report.jpg"
-categories: news
+categories: ["update"]
 by: "Silvia"
 published: true
 excerpt: "Our two-week <b>opencare</b> residence at <b>WeMake</b> Milano was a success!"

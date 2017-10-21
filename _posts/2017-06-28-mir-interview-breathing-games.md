@@ -4,7 +4,7 @@ title: "opencare MIR - Interview"
 subtitle: "Breathing Games and WeMake, let's know each other better!"
 date: 2017-06-28 10:13:04 +0200
 image: "/breathinggames/assets/BG-post-img-interview.jpg"
-categories: news
+categories: ["news"]
 by: "Silvia"
 published: true
 excerpt: "Breathing Games and WeMake, let's know each other better!"

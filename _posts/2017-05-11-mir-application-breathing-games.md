@@ -4,7 +4,7 @@ title: "opencare MIR application - Breathing Games"
 subtitle: "On 11th of May 2017 we submitted our application to the <b>CALL FOR MAKERS - opencare Maker In Residence.</b>"
 date: 2017-05-11 10:13:04 +0200
 image: "/breathinggames/assets/BG-post-img-01.jpg"
-categories: news
+categories: ["news"]
 by: "Silvia"
 published: true
 excerpt: "On 11th of May 2017 we submitted our application to the <b>CALL FOR MAKERS - opencare Maker In Residence.</b>"

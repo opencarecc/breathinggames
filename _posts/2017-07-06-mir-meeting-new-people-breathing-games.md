@@ -5,7 +5,7 @@ subtitle: "We get in touch with Oliver from the echOpen project."
 date: 2017-07-06 10:13:04 +0200
 image: "/breathinggames/assets/BG-post-img-hubotics.jpg"
 categories: news
-by: "Silvia"
+by: ["update","news"]
 published: true
 excerpt: "We get in touch with Oliver from the echOpen project."
 lang: en

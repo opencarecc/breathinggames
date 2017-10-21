@@ -4,7 +4,7 @@ title: "opencare MIR - Sensors and 3D printing"
 subtitle: "Our <b>opencare</b> residence at WeMake Milan is moving forward!"
 date: 2017-07-03 10:13:04 +0200
 image: "/breathinggames/assets/BG-post-img-devices.jpg"
-categories: news
+categories: ["prototype","update"]
 by: "Silvia"
 published: true
 excerpt: "Our <b>opencare</b> residence at WeMake Milan is moving forward!"

@@ -4,7 +4,7 @@ title: "opencare - Breathing Games"
 subtitle: "On 26th of June we started the two-weeks <b>opencare Maker In Residence.</b>"
 date: 2017-06-26 10:13:04 +0200
 image: "/breathinggames/assets/BG-post-img-residency.jpg"
-categories: news
+categories: ["kick-off","news"]
 by: "Silvia"
 published: true
 excerpt: "On 26th of June we started the two-weeks <b>opencare Maker In Residence.</b>"
