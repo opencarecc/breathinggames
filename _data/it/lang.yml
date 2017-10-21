@@ -109,9 +109,8 @@ tutorials:
 # dictionary keys for license.html include file
 license:
   title: "Open Source"
-  license_content_html: "Software - <a href='https://www.gnu.org/licenses/gpl-3.0.en.html' target='_blank'>GNU General Public License</a>
-                        <br>
-                        Hardware - <a href='http://ohwr.org/cernohl' target='_blank'>CERN OHL v.1.2</a>"
+  license_content_html: "<img src='https://opencarecc.github.io/breathinggames/assets/Open-Source-Initiative-logo.png' class='pull-left margin-right-35'>
+  <p>Breathing Games è membro della <a href='https://opensource.org/node/829'>Open Source Initiative</a> ed è firmatario del <a href='https://www.unglobalcompact.org/what-is-gc/participants/84281'>United Nations Global Compact</a> – una call per allineare le organizzazioni ai principi universali sui diritti umani, il lavoro, l'ambiente e l'anticorruzione.</p>"
 
 # dictionary keys for credits.html include file
 credits:
@@ -126,9 +125,9 @@ credits:
 contribute:
   title: "Come contribuire al progetto"
   contribution_guidelines:
-    - guideline: "Contribuire 1"
-    - guideline: "Contribuire 2"
-    - guideline: "Contribuire 3"
+    # - guideline: "Contribuire 1"
+    # - guideline: "Contribuire 2"
+    - guideline: "Vuoi contribuire al progetto <b>Breathing Games</b>? Scrivi a <a href='mailto:breathinggamesstaff@wemake.cc'>breathinggamesstaff@wemake.cc</a> o lascia un commento qui sotto!"
   more_link:
     - text: "Maggiori informazioni"
       link: "about"
@@ -139,7 +138,7 @@ contribute:
 # ------------------------------
 # dictionary keys for footer.html include file
 footer:
-  credits_line_html: "è curato da <a href='https://opencare.cc'>opencarecc</a>"
+  credits_line_html: "è curato da <a href='http://wemake.cc' target='_blank'>WeMake</a> e Breathing Games, è parte del progetto <a href='http://opencare.cc/' target='_blank'>opencare.cc</a> ed è risultato della <a href='http://wemake.cc/opencare/maker-in-residence/' target='_blank'>opencare Maker in Residence</a>."
   eu_agreement_line: "This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 688670"
 
 
