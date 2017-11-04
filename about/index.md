@@ -37,7 +37,7 @@ Since 2014, Breathing Games has mobilized <b>over 200 people</b> from all walks 
 #### The participants of the <b>opencare Maker in Residence</b>
 
 * <b>Bernard Dugas</b> - IT systems architect, 25 years in aeronautic and telecom networks
-* <b>Povilas Jurgaitis</b> - Electronics engineer, 4 years in electronics and embedded systems design
+* <b>Povilas</b> - Electronics engineer, 4 years in electronics and embedded systems design
 * <b>Fabio Balli</b> - Researcher on commons, 10 years in social transformation processes and training
 * <b>Helder Santos</b> - Industrial designer, 7 years with expertise in FDM 3D printing technology
 * <b>Athena Lopez</b> - Student in design
