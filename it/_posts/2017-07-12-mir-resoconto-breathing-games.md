@@ -12,8 +12,6 @@ lang: it
 ref:  mir-report-breathing-games
 ---
 
-<img src="https://opencarecc.github.io/breathinggames/assets/BG-post-img-report.jpg" alt="Breathing Games-Devices">
-
 La nostra residenza <b>opencare</b> di due settimane presso WeMake Milano è stata un successo!
 
 Abbiamo <b>revisionato la letteratura</b>, sviluppato un <b>kit modulare</b> per testare diversi sensori di pressione e flusso, costruire una pompa per calibrare i sensori, e accrescere il nostro sito web.

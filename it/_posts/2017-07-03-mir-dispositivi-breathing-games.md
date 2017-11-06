@@ -12,8 +12,6 @@ lang: it
 ref: mir-devices-breathing-games
 ---
 
-<img src="https://opencarecc.github.io/breathinggames/assets/BG-post-img-devices.jpg" alt="Breathing Games-Devices">
-
 La nostra <b>residenza opencare</b> presso [WeMake](https://wemake.cc) Milano sta procedendo spedita! Abbiamo <b>costruito</b> e <b>testato</b> diversi sensori per misurare la pressione ed il flusso, utilizzando <b>stampa 3D</b>, elettronica Adafruit ed altri elementi.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/wemake_cc/albums/72157685825940784" title="opencare MIR - Breathing Games - Sensors"><img src="https://farm5.staticflickr.com/4418/36105824103_fb951d0ded_c.jpg" width="800" height="450" alt="opencare MIR - Breathing Games - Sensors"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

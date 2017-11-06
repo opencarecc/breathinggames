@@ -3,7 +3,7 @@ layout: post
 title: "opencare MIR - Report of the residency"
 subtitle: "Our two-week <b>opencare</b> residence at <b>WeMake</b> Milano was a success!"
 date: 2017-07-12 12:13:04 +0200
-image: "/breathinggames/assets/BG-post-img-report.jpg"
+image: "https://opencarecc.github.io/breathinggames/assets/BG-post-img-report.jpg"
 categories: ["update"]
 by: "Silvia"
 published: true
@@ -11,8 +11,6 @@ excerpt: "Our two-week <b>opencare</b> residence at <b>WeMake</b> Milano was a s
 lang: en
 ref: mir-report-breathing-games
 ---
-
-<img src="https://opencarecc.github.io/breathinggames/assets/BG-post-img-report.jpg" alt="Breathing Games-Devices">
 
 Our two-week <b>opencare</b> residence at <b>WeMake</b> Milano was a success!
 

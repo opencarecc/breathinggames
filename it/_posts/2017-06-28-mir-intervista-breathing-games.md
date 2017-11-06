@@ -12,8 +12,6 @@ lang: it
 ref: mir-interview-breathing-games
 ---
 
-<img src="https://opencarecc.github.io/breathinggames/assets/BG-post-img-interview.jpg" alt="Breathing Games-Interview">
-
 Pochi giorni dopo l'inizio della <b>opencare Maker in Residence</b>, Alessia dello staff di WeMake ci ha intervistati per scoprire qualcosa di più sulla nostra visione del progetto Breathing Games.
 
 Se vuoi approfondire il nostro team ed il progetto, clicca  [qui](http://wemake.cc/2017/07/17/wemake-stories-breathing-games-and-their-free-software-project/)!

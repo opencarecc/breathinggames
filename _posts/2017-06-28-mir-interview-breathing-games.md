@@ -3,7 +3,7 @@ layout: post
 title: "opencare MIR - Interview"
 subtitle: "Breathing Games and WeMake, let's know each other better!"
 date: 2017-06-28 10:13:04 +0200
-image: "/breathinggames/assets/BG-post-img-interview.jpg"
+image: "https://opencarecc.github.io/breathinggames/assets/BG-post-img-interview.jpg"
 categories: ["news"]
 by: "Silvia"
 published: true
@@ -11,8 +11,6 @@ excerpt: "Breathing Games and WeMake, let's know each other better!"
 lang: en
 ref: mir-interview-breathing-games
 ---
-
-<img src="https://opencarecc.github.io/breathinggames/assets/BG-post-img-interview.jpg" alt="Breathing Games-Interview">
 
 Only a few days after the beginning of the <b>opencare Maker in Residence</b>, Alessia from the staff of WeMake, interviewed us to know more about our vision of the Breathing Games project.
 

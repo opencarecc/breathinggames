@@ -12,8 +12,6 @@ lang: it
 ref: mir-breathing-games
 ---
 
-<img src="https://opencarecc.github.io/breathinggames/assets/BG-post-img-residency.jpg" alt="Breathing Games-Residency">
-
 Agosto 2016, Breathing Games ha preso parte all'application <b>Open & Change Care</b> per la MacArthur's Foundation.
 Aprile 2017, siamo stati selezionati per una <b>residenza di due settimane a Milano</b>, organizzata da [WeMake](http://wemake.cc/) e <b>[opencare](http://opencare.cc/)</b>.
 

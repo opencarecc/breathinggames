@@ -12,8 +12,6 @@ lang: it
 ref: mir-application-breathing-games
 ---
 
-<img src="https://opencarecc.github.io/breathinggames/assets/BG-post-img-01.jpg" alt="Breathing Games-01">
-
 <blockquote><i>Un pianeta dove tutti respirano liberamente.</i></blockquote>
 
 Nell'agosto 2016, Breathing Games ha preso parte all'<b>Open & Change Care</b> application alla <b>MacArthur's Foundation</b>. L'11 maggio 2017 abbiamo inviato la nostra domanda di partecipazione alla <b>CALL FOR MAKERS - opencare Maker In Residence.</b>

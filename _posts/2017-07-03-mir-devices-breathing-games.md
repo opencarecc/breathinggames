@@ -3,7 +3,7 @@ layout: post
 title: "opencare MIR - Sensors and 3D printing"
 subtitle: "Our <b>opencare</b> residence at WeMake Milan is moving forward!"
 date: 2017-07-03 10:13:04 +0200
-image: "/breathinggames/assets/BG-post-img-devices.jpg"
+image: "https://opencarecc.github.io/breathinggames/assets/BG-post-img-devices.jpg"
 categories: ["prototype","update"]
 by: "Silvia"
 published: true
@@ -11,8 +11,6 @@ excerpt: "Our <b>opencare</b> residence at WeMake Milan is moving forward!"
 lang: en
 ref: mir-devices-breathing-games
 ---
-
-<img src="https://opencarecc.github.io/breathinggames/assets/BG-post-img-devices.jpg" alt="Breathing Games-Devices">
 
 Our <b>opencare residence</b> at [WeMake](https://wemake.cc) Milan is moving forward! We have been <b>building</b> and <b>testing different sensors</b> to measure the pressure and flow, using <b>3d printing</b>, Adafruit electronics and other elements.
 

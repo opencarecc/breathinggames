@@ -3,7 +3,7 @@ layout: post
 title: "opencare - Breathing Games"
 subtitle: "On 26th of June we started the two-weeks <b>opencare Maker In Residence.</b>"
 date: 2017-06-26 10:13:04 +0200
-image: "/breathinggames/assets/BG-post-img-residency.jpg"
+image: "https://opencarecc.github.io/breathinggames/assets/BG-post-img-residency.jpg"
 categories: ["kick-off","news"]
 by: "Silvia"
 published: true
@@ -11,8 +11,6 @@ excerpt: "On 26th of June we started the two-weeks <b>opencare Maker In Residenc
 lang: en
 ref: mir-breathing-games
 ---
-
-<img src="https://opencarecc.github.io/breathinggames/assets/BG-post-img-residency.jpg" alt="Breathing Games-Residency">
 
 August 2016, Breathing Games took part to the <b>Open & Change Care</b> application to MacArthur's Foundation. April 2017, we were selected for a <b>two-weeks residence in Milan</b>, organized by [WeMake](http://wemake.cc/) and <b>[opencare](http://opencare.cc/)</b>.
 

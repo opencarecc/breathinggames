@@ -12,8 +12,6 @@ lang: it
 ref: mir-meeting-new-people-breathing-games
 ---
 
-<img src="https://opencarecc.github.io/breathinggames/assets/BG-post-img-hubotics.jpg" alt="Breathing Games-Devices">
-
 Il 6 luglio Costantino del team di <b>WeMake</b> ci ha presentato ad <b>Olivier</b> del progetto <b>[echOpen](http://echopen.org/)</b>, cominciando una nuova discussione su <b>EdgeRyders</b>.
 
 Se vuoi partecipare alla discussione, clicca  [qui](https://edgeryders.eu/t/copyfair-devices-to-measure-the-breath-pressures-and-flow/844)!
