@@ -3,7 +3,7 @@ layout: post
 title: "opencare - Breathing Games"
 subtitle: "Il 26 giugno abbiamo iniziato le due settimane del programma <b>opencare Maker In Residence</b>."
 date: 2017-06-26 10:13:04 +0200
-image: "/breathinggames/assets/BG-post-img-residency.jpg"
+image: "https://opencarecc.github.io/breathinggames/assets/BG-post-img-residency.jpg"
 categories: ["kick-off","news"]
 by: "Silvia"
 published: true
@@ -12,40 +12,22 @@ lang: it
 ref: mir-breathing-games
 ---
 
-<img src="https://opencarecc.github.io/breathinggames/assets/BG-post-img-01.jpg" alt="Breathing Games-01">
+<img src="https://opencarecc.github.io/breathinggames/assets/BG-post-img-residency.jpg" alt="Breathing Games-Residency">
 
-<blockquote><i>A planet where everyone breathes freely.</i></blockquote>
+Agosto 2016, Breathing Games ha preso parte all'application <b>Open & Change Care</b> per la MacArthur's Foundation.
+Aprile 2017, siamo stati selezionati per una <b>residenza di due settimane a Milano</b>, organizzata da [WeMake](http://wemake.cc/) e <b>[opencare](http://opencare.cc/)</b>.
 
-On August 2016, Breathing Games took part to the <b>Open & Change Care</b> application to <b>MacArthur's Foundation</b>. On 11th of May 2017 we submitted our application to the <b>CALL FOR MAKERS - opencare Maker In Residence.</b>
+Documentiamo la nostra <b>opencare Maker in Residence</b> ai seguenti link:
 
-The <b>opencare Maker in Residence</b> is the first edition of a special residency program organized by [WeMake](wemake.cc), as part of the <b>opencare</b> European project. It provides support, assistance, funding and acceleration to Makers – from all over the world – who are interested in developing / validating / iterating an open source project in the health and care field.
+* [Documento principale](https://docs.google.com/document/d/13i5PrVBFJANZo32CCpc0PMJ8TM-b3swDS_D2jL_dB7w/edit#)
+* [Repository](https://docs.google.com/presentation/d/1AyjuRKuKyXuxuIZXRs9Moc1hQEKJLkoqHu3jKffRUII/pub?start=false&loop=false&delayms=10000&slide=id.g1da9938a96_2_45)
+* [Source code (GitLab)](https://gitlab.com/breathinggames/)
+* [Immagini](http://breathinggames.net/?q=en/wemake)
 
-<img src="https://opencarecc.github.io/breathinggames/assets/BG-post-img-02.jpg" alt="Breathing Games-02">
+Altri articoli su <b>EdgeRyders<b>:
 
-We applied as [Breathing Games](www.breathinggames.net) which promotes respiratory health by encouraging each citizen to take care of their health. We create <b>educational and therapeutic games</b>, devices to measure the breathe and distributed data systems to inform public health practices and policies.
+* [Worldwide, 1 in 5 people has a respiratory disease...](https://edgeryders.eu/t/worldwide-1-in-5-people-has-a-respiratory-disease-we-co-create-freely-available-respiratory-health-games-and-devices/702)
+* [Is community-based and participatory health care sufficient?](https://edgeryders.eu/t/everyone-should-be-able-to-adapt-lifesaving-health-innovation/6241)
+* [SENSORICA and health care](https://edgeryders.eu/t/sensorica-and-health-care/505)
 
-We create a commons – collectively managed <b>resources</b> that are <b>freely accessible</b> and can be used and enriched by everyone – by spurring collaboration between people affected, caregivers, and passionate professionals to build on the collective intelligence.
-
-Continue to read our story on <b>EdgeRyders</b> by clicking on this [link](https://edgeryders.eu/t/worldwide-1-in-5-people-has-a-respiratory-disease-we-co-create-freely-available-respiratory-health-games-and-devices/702)!
-
-***
-
-### Release 0.1 - 2017/05/11
-
-* <b>Project Name:</b>
-  * Breathing Games
-* <b>Users:</b>
-  * Individuals with chronic respiratory diseases
-  * Caregivers
-  * Passionate professionals
-  * Doctors (MD, physicians, specialists)
-* <b>The problem:</b>
-  * Lack of information
-  * Lack of education and healthy habits.
-* <b>The solution:</b>
-  * Educational and therapeutic games
-  * Game Jams
-  * Hardwares
-  * Distributed databases
-* <b>Link:</b>
-  * [MIR Application 11/05/2017](https://edgeryders.eu/t/worldwide-1-in-5-people-has-a-respiratory-disease-we-co-create-freely-available-respiratory-health-games-and-devices/702)
+Seguiranno maggiori informazioni, STAY TUNED!

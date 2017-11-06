@@ -3,7 +3,7 @@ layout: post
 title: "opencare MIR - Sensori e stampa 3D"
 subtitle: "La nostra residenza <b>opencare</b> presso WeMake Milano sta procedendo spedita!"
 date: 2017-07-03 10:13:04 +0200
-image: "/breathinggames/assets/BG-post-img-devices.jpg"
+image: "https://opencarecc.github.io/breathinggames/assets/BG-post-img-devices.jpg"
 categories: ["prototipo","aggiornamenti"]
 by: "Silvia"
 published: true
@@ -12,40 +12,30 @@ lang: it
 ref: mir-devices-breathing-games
 ---
 
-<img src="https://opencarecc.github.io/breathinggames/assets/BG-post-img-01.jpg" alt="Breathing Games-01">
+<img src="https://opencarecc.github.io/breathinggames/assets/BG-post-img-devices.jpg" alt="Breathing Games-Devices">
 
-<blockquote><i>A planet where everyone breathes freely.</i></blockquote>
+La nostra <b>residenza opencare</b> presso [WeMake](https://wemake.cc) Milano sta procedendo spedita! Abbiamo <b>costruito</b> e <b>testato</b> diversi sensori per misurare la pressione ed il flusso, utilizzando <b>stampa 3D</b>, elettronica Adafruit ed altri elementi.
 
-On August 2016, Breathing Games took part to the <b>Open & Change Care</b> application to <b>MacArthur's Foundation</b>. On 11th of May 2017 we submitted our application to the <b>CALL FOR MAKERS - opencare Maker In Residence.</b>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/wemake_cc/albums/72157685825940784" title="opencare MIR - Breathing Games - Sensors"><img src="https://farm5.staticflickr.com/4418/36105824103_fb951d0ded_c.jpg" width="800" height="450" alt="opencare MIR - Breathing Games - Sensors"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-The <b>opencare Maker in Residence</b> is the first edition of a special residency program organized by [WeMake](wemake.cc), as part of the <b>opencare</b> European project. It provides support, assistance, funding and acceleration to Makers – from all over the world – who are interested in developing / validating / iterating an open source project in the health and care field.
-
-<img src="https://opencarecc.github.io/breathinggames/assets/BG-post-img-02.jpg" alt="Breathing Games-02">
-
-We applied as [Breathing Games](www.breathinggames.net) which promotes respiratory health by encouraging each citizen to take care of their health. We create <b>educational and therapeutic games</b>, devices to measure the breathe and distributed data systems to inform public health practices and policies.
-
-We create a commons – collectively managed <b>resources</b> that are <b>freely accessible</b> and can be used and enriched by everyone – by spurring collaboration between people affected, caregivers, and passionate professionals to build on the collective intelligence.
-
-Continue to read our story on <b>EdgeRyders</b> by clicking on this [link](https://edgeryders.eu/t/worldwide-1-in-5-people-has-a-respiratory-disease-we-co-create-freely-available-respiratory-health-games-and-devices/702)!
+Maggiori dettagli su [EdgeRyders](https://edgeryders.eu/t/copyfair-devices-to-measure-the-breath-pressures-and-flow/844)!
 
 ***
 
-### Release 0.1 - 2017/05/11
+### Release 0.2 - 2017/07/03
 
 * <b>Project Name:</b>
-  * Breathing Games
+	* Breathing Games
 * <b>Users:</b>
-  * Individuals with chronic respiratory diseases
-  * Caregivers
-  * Passionate professionals
-  * Doctors (MD, physicians, specialists)
+	* Individuals with chronic respiratory diseases
+	* Caregivers
+	* Passionate professionals
+	* Doctors (MD, physicians, specialists)
 * <b>The problem:</b>
-  * Lack of information
-  * Lack of education and healthy habits.
-* <b>The solution:</b>
-  * Educational and therapeutic games
-  * Game Jams
-  * Hardwares
-  * Distributed databases
+	* Lack of information
+	* Lack of education and healthy habits.
+* <b>The outcomes:</b>
+	* Sensors to measure the pressure and flow, using 3d printing
+	* Adafruit electronics
 * <b>Link:</b>
-  * [MIR Application 11/05/2017](https://edgeryders.eu/t/worldwide-1-in-5-people-has-a-respiratory-disease-we-co-create-freely-available-respiratory-health-games-and-devices/702)
+  * [MIR updates 03/07/2017](https://edgeryders.eu/t/copyfair-devices-to-measure-the-breath-pressures-and-flow/844)
