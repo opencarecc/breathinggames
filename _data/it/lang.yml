@@ -25,12 +25,7 @@ header:
       link: "https://github.com/opencarecc/breathinggames/wiki"
 
 # dictionary keys for description.html include file
-description: "<h3>Riconoscimenti</h3>
-    <p>
-      Questo sito racconta l'esperienza ed il progresso di <b>Breathing Games</b> all'interno del programma <b>opencare Maker in Residence</b>,
-      che ha avuto luogo presso WeMake dal 21/06 al 08/07/2017.
-    </p>
-  <h2>I nostri valori fondamentali</h2>
+description: "<h2>I nostri valori fondamentali</h2>
   <p>
       Creiamo <b>giochi educativi e terapeutici</b>, <b>dispositivi</b> per misurare respiro e <b>sistemi distribuiti
       di raccolta dei dati</b>, con il fine di informare le pratiche sanitarie pubbliche e le politiche.
@@ -38,6 +33,13 @@ description: "<h3>Riconoscimenti</h3>
       - incoraggiando la <b>collaborazione</b> tra le persone affette da una condizione o malattia, i caregivers
       e i professionisti appassionati alla causa, per costruire sull'<b>intelligenza collettiva</b>.
   </p>"
+
+# dictionary keys for acknowledgement.html include file
+acknowledgement: "<h3>Riconoscimenti</h3>
+    <p>
+      Questo sito racconta l'esperienza ed il progresso di <b>Breathing Games</b> all'interno del programma <b>opencare Maker in Residence</b>,
+      che ha avuto luogo presso WeMake dal 21/06 al 08/07/2017.
+    </p>"
 
 # dictionary keys for video.html include file
 video:
