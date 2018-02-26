@@ -26,7 +26,7 @@ header:
     - text: "Download .zip"
       link: "https://github.com/opencarecc/breathinggames/zipball/master"
     - text: "Build your own!"
-      link: "https://github.com/opencarecc/breathinggames/wiki"
+      link: "https://gitlab.com/breathinggames/"
 
 # dictionary keys for description.html include file
 description: "<h2>Our core values</h2>

@@ -22,7 +22,7 @@ header:
     - text: "Scarica .zip"
       link: "https://github.com/opencarecc/breathinggames/zipball/master"
     - text: "Costruisci!"
-      link: "https://github.com/opencarecc/breathinggames/wiki"
+      link: "https://gitlab.com/breathinggames/"
 
 # dictionary keys for description.html include file
 description: "<h2>I nostri valori fondamentali</h2>
